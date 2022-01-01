@@ -12,7 +12,8 @@ graph-project （“图”在web中的可视化）是一个基于 Vue 2.0 框架
 
 ## 截图
 
-<details> ![点的创建](https://cdn.jsdelivr.net/gh/liuyunfz/picgo_pictures/img/图片1.png)
+<details> 
+![点的创建](https://cdn.jsdelivr.net/gh/liuyunfz/picgo_pictures/img/图片1.png)
 
 ![点的连通](https://cdn.jsdelivr.net/gh/liuyunfz/picgo_pictures/img/union-point.png)
 
